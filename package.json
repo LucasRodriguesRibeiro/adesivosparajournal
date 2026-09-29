@@ -1,0 +1,17 @@
+{
+  "name": "pack-stickers-journal",
+  "version": "1.0.0",
+  "description": "Página de vendas de alta conversão para o Pack de Stickers para Journal",
+  "scripts": {
+    "dev": "npx -y serve -l 3000 .",
+    "start": "npx -y serve -l 3000 ."
+  },
+  "keywords": [
+    "stickers",
+    "journal",
+    "scrapbook",
+    "landing-page"
+  ],
+  "author": "",
+  "license": "ISC"
+}
